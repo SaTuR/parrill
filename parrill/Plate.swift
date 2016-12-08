@@ -1,6 +1,6 @@
 //
 //  Plate.swift
-//  parrill
+//  parrill Asados
 //
 //  Created by Jose Cordova on 3/12/16.
 //  Copyright © 2016 SaTuR. All rights reserved.
